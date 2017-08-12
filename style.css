@@ -1,0 +1,35 @@
+body {
+	background-color: #05c66c;
+	padding: 20px;
+	font-family: Source Sans Pro;
+	width: 80%;
+	margin: 20px auto;
+}
+
+.header {
+	color: white;
+	background-color: #211b1a;
+	border: 10px #ffffff solid;
+	padding: 20px;
+	margin: 20px;
+}
+
+.main {
+	color: #211b1a;
+	background-color: #ffffff;
+	border: 10px #211b1a solid;
+	padding: 20px;
+	margin: 20px;
+}
+
+h1 {
+	color: #05c66c;
+}
+
+h2 {
+	color: #05c66c;
+}
+
+h3 {
+	padding: 0;
+}
